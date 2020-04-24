@@ -23,6 +23,8 @@ This ia a computer vision section that cover section such as:
 			i) Convolution, N, K – convolution layer with N feature maps and KxK filters
 			ii) Maxpool, K – max pooling layer KxK pooling window
 			iii) Fully-connected, N – fully connected layer with N neurons
+			
+<img width="470" alt="Screenshot 2020-04-25 at 3 28 13 AM" src="https://user-images.githubusercontent.com/22388218/80260165-dedceb00-86a4-11ea-916c-fc05f6a874aa.png">
 
 2) **Image denoising** 
 
