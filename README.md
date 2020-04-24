@@ -19,4 +19,28 @@ This ia a computer vision section that cover section such as:
 	f) Manualy compute valid convolution
 
 
-	g) 
+	g) Calculation of:
+
+		i) Convolution, N, K – convolution layer with N feature maps and KxK filters
+		ii) Maxpool, K – max pooling layer KxK pooling window
+		iii) Fully-connected, N – fully connected layer with N neurons
+
+2) **Image denoising** 
+
+		a) DnCNN-3 designing.
+
+		b) Test performance of (PSRN/SSIM) on Set68 using this corruption level.
+
+		c) Denoising an image
+
+		d) Modifying the network to output the estimated noise
+
+3) **Semantic segmentation** 
+
+		a)  Predict segmentation mask 
+
+		b) Decode the groundtruth
+
+		c) Find IOU
+
+
