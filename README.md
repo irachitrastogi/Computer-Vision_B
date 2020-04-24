@@ -12,7 +12,7 @@ This ia a computer vision section that cover section such as:
 
 		c) Fully-connected CNN layer with N nodes
 
-		d) Estimate the dataset **mean** and **standard deviation** and use it to normalize the data in the data loader
+		d) Estimate the dataset mean and standard deviation and use it to normalize the data in the data loader
 
 		e) Design CNN3 with additional regularization
 
