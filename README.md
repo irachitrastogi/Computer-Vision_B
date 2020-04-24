@@ -3,6 +3,7 @@
 This ia a computer vision section that cover section such as: 
 
 1) **MNIST classification** 
+
 	a) Convolutional Neural Network on MNIST dataset.
 	b) Taining of the CNN with the best 
 		- Learning Rate 
